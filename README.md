@@ -1,5 +1,5 @@
 # SkegCraft Minecraft Server
-**Current Status: Down for system maintenance.**
+**Current Status: Will be stopped at 12PM-6AM EDT**
 
 Welcome to the Website for SkegCraft. This website will have status updates, and will get other cool stuff in the future.
 
